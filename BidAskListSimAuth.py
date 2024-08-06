@@ -9,8 +9,8 @@ import hashlib
 from ASSETS import ASSETS
 
 # Authentication details
-api_key = 'mHUDEgGlnCGz/b61ph/6a41ZTKGxZdgnL6DVWveDLqI='
-api_secret = 'ArNgYwr0t5svhZTK1CU5lsyOAKjogV4ZpwZWhMVaNvM='
+api_key = Removed
+api_secret = Removed
 
 # Use the OX codes from the config
 tickers = [asset['ox_code'] for asset in ASSETS]
